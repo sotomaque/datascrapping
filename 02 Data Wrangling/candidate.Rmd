@@ -1,0 +1,27 @@
+---
+author: "Enrique Sotomayor & Amy Recio"
+output: html_document 
+---
+Project 1
+===
+
+How are presidendial candidates doing on social media>
+
+**With a much anticipated election coming up, candidates are spending a lot of time and effort on their presence online..**
+<br></br>
+This visualization has the date as the x axis, the candidates total social media following as the y axis, and is colored based on political party.
+<br></br>
+![](../01 Data/1.png) 
+<br></br>
+This plot shows republicans (donald trump specifically) are the only ones to break the 8 million likes on facebook.
+<br></br>
+![](../01 Data/2.png) 
+<br></br>
+
+<br></br>
+<br></br>
+This visualization plots the date on the x axis and the and twitter followers on the y axis. it shows the derivatives are farily consistant and republicans seem to be doing a better job at attracting followers on twitter.
+<br></br>
+![](../01 Data/3.png) 
+<br></br>
+<br></br>
